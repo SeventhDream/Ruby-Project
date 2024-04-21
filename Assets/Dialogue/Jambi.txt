@@ -1,0 +1,26 @@
+JAMBI: Hello stranger! Welcome to the humble abode of yours truly, Jambi's Junkyard! And to whom do I owe this surprise visit?
+RUBY: My name is Ruby. What's causing all that noise?
+JAMBI: Well, unfortunately my trusty clockwork friends who help me run the place have gone haywire.
+RUBY: Sounds to me like you could use some new 'friends'.
+JAMBI: Nonsense! I built them myself from my own yard, no less! I couldn't bring myself to just throw them away.
+RUBY: Suit yourself. Do you know the way back to the main trail? I need to return home.
+JAMBI: Certainly! The gate just ahead leads to main road. Merchants use it to deliver their 'goods' to my yard.
+RUBY: Right, I forgot we're standing in the middle of a Junkard... Could you open it for me?
+JAMBI: I would be glad to, but-
+RUBY: Let me guess, your 'friends' are in the way?
+JAMBI: Correct.
+RUBY: Alright, how do we fix them?
+JAMBI: I'm glad you asked! Just grab those cogwheels and throw them using [C]. That should knock their circuits back in order!
+JAMBI: At least for now...
+JAMBI: If you run out of cogs, there should be more bags lying around the grounds, and strawberries to eat if you're feeling hungry or weak!
+JAMBI: You can use [R] to reset if you're feeling stuck.
+JAMBI: Return to me when you're done. Good luck!
+RUBY: (whispers) What a lazy frog...
+JAMBI: Press [TAB] you need to remember the controls or your current objective.
+RUBY: Huh?
+JAMBI: What are you doing still standing there? The machines won't fix themselves!
+RUBY: ...
+JAMBI: Zzz... Oh, you're already done! (**Yawn**) That was quick!
+RUBY: (Why do I feel like I've been used?)
+JAMBI: (**Stretching**) I suppose I should open the gate for you now...
+
